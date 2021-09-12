@@ -17,7 +17,7 @@ A pessoa que gerencia a área de logística da Alura Log, está enfrentando algu
 ## Páginas
 O dashboard foi estruturado em três relatórios ou páginas diferentes: Geral, Frota e Financeiro. Cada uma delas se foca em diferentes aspectos e insights possíveis de depreender a partir da massa de dados e das relações entre eles.
 
-**Obs.: **Os dados acerca de cada elemento das páginas estará disposto da seguinte maneira abaixo:
+**Obs.:** Os dados acerca de cada elemento das páginas estará disposto da seguinte maneira abaixo:
 
 - Propriedade: [Tabela de Origem] Dado (Cálculo)
 
