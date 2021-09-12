@@ -1,6 +1,8 @@
 # Semana 01 - Alura Log
 
-[alura-log.png](https://postimg.cc/4YJSv847)
+<p align="center">
+  <img src="https://i.postimg.cc/vZ9wsjpz/alura-log.png">
+</p>
 
 ## Dashboard
 
@@ -245,20 +247,17 @@ Exibe a classificação das categorias de produtos entregues pela Alura Log, e q
 ## Medidas e Fórmulas
 ### Tabela de Medidas
 
-```markdown
-
-| Medida            | Fórmula |
-|-------------------|---------|
-| Faturamento       | SUM(Pedidos[Quantidade]) * SUM(Produtos[Preço]) |
-| Faturamento Total | SUM(Pedidos[Faturamento]) + 0 |
-| Motos Disponíveis | CALCULATE(COUNTROWS('Veículos'), Filter('Veículos', 'Veículos'[Tipo] = "Moto" && 'Veículos'[Status] = "Disponível")) + 0 |
-| Pedidos em Atraso | CALCULATE(COUNTROWS(Pedidos), FILTER(Pedidos, Pedidos[Data de Entrega] > Pedidos[Data da Previsão de Entrega])) |
-| Pedidos em Trânsito| CALCULATE(COUNTROWS(Pedidos), FILTER(Pedidos, Pedidos[Status do Pedido] = "Em Trânsito")) |
+| Medida                     |                           Fórmula                            |
+| -------------------------- | :----------------------------------------------------------: |
+| Faturamento                |       SUM(Pedidos[Quantidade]) * SUM(Produtos[Preço])        |
+| Faturamento Total          |                SUM(Pedidos[Faturamento]) + 0                 |
+| Motos Disponíveis          | CALCULATE(COUNTROWS('Veículos'), Filter('Veículos', 'Veículos'[Tipo] = "Moto" && 'Veículos'[Status] = "Disponível")) + 0 |
+| Pedidos em Atraso          | CALCULATE(COUNTROWS(Pedidos), FILTER(Pedidos, Pedidos[Data de Entrega] > Pedidos[Data da Previsão de Entrega])) |
+| Pedidos em Trânsito        | CALCULATE(COUNTROWS(Pedidos), FILTER(Pedidos, Pedidos[Status do Pedido] = "Em Trânsito")) |
 | Pedidos Entregues no Prazo | CALCULATE(COUNTROWS(Pedidos), FILTER(Pedidos, Pedidos[Data de Entrega] <= Pedidos[Data da Previsão de Entrega])) |
-| Valor do Estoque Atual | SUMX(Estoque, Estoque[Quantidade] * RELATED(Produtos[Preço])) |
-| Veículos Disponíveis | CALCULATE(COUNTROWS('Veículos'), FILTER('Veículos', 'Veículos'[Status] = "Disponível")) + 0 |
-| Veículos Ocupados | COUNTROWS(FILTER('Veículos', 'Veículos'[Status] = "Ocupado")) |
-```
+| Valor do Estoque Atual     | SUMX(Estoque, Estoque[Quantidade] * RELATED(Produtos[Preço])) |
+| Veículos Disponíveis       | CALCULATE(COUNTROWS('Veículos'), FILTER('Veículos', 'Veículos'[Status] = "Disponível")) + 0 |
+| Veículos Ocupados          | COUNTROWS(FILTER('Veículos', 'Veículos'[Status] = "Ocupado")) |
 
 ## ETL
 O processo de ETL foi todo feito através do Power BI, a partir dos 4 arquivos CSV originais (Tabela - Estoque, Tabela - Pedidos, Tabela - Veículos e Tabela - Produtos) fornecidos para a elaboração dos relatórios.
