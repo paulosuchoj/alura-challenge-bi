@@ -1,8 +1,9 @@
 # Semana 01 - Alura Log
 
 <p align="center">
-  <img src="https://i.postimg.cc/vZ9wsjpz/alura-log.png">
+  <img src="https://i.postimg.cc/8sQ53BQz/alura-log-white.png">
 </p>
+
 
 ## Dashboard
 
