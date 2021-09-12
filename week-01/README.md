@@ -21,13 +21,17 @@ O dashboard foi estruturado em três relatórios ou páginas diferentes: Geral, 
 
 ### Geral
 
-[PBIDesktop-du-KMXbeeq-F.png](https://postimg.cc/yJb436nf)
+<p align="center">
+  <img src="https://i.postimg.cc/xC007cmS/PBIDesktop-du-KMXbeeq-F.png">
+</p>
 
 Essa página é uma visão geral da Alura Log, desenvolvida como uma tela de boas-vindas à partir da qual o cliente já pode observar a situação atual da empresa, um "snapshot". Nela é possível observar as seguintes informações:
 
 **Volume de Estoque**
 
-[PBIDesktop-6wryb0-IOpr.png](https://postimg.cc/r0z7N6zf)
+<p align="center">
+  <img src="https://i.postimg.cc/bJR88pPf/PBIDesktop-6wryb0-IOpr.png">
+</p>
 
 Mostra a quantidade de itens no estoque por ano, bem como a média de itens acumulados.
 
@@ -39,7 +43,9 @@ Mostra a quantidade de itens no estoque por ano, bem como a média de itens acum
 
 **Mapa de Entregas**
 
-[PBIDesktop-Rwyn9-Dakc-G.png](https://postimg.cc/bdDKGj7J)
+<p align="center">
+  <img src="https://i.postimg.cc/XNQ3zjxw/PBIDesktop-Rwyn9-Dakc-G.png">
+</p>
 
 Visualização com círculos de diferentes tamanhos sobre um mapa do Brasil. O tamanho dos círculos indica o volume de entregas realizadas naquela região, baseando-se em dados de latitude e longitude.
 
@@ -50,7 +56,9 @@ Visualização com círculos de diferentes tamanhos sobre um mapa do Brasil. O t
 
 **S2D - Ship to Door**
 
-[PBIDesktop-k-JAl6-HMShd.png](https://postimg.cc/gLZ51vVR)
+<p align="center">
+  <img src="https://i.postimg.cc/L5CpYDhy/PBIDesktop-k-JAl6-HMShd.png">
+</p>
 
 Essa visualização é muito interessante, e mostra a quantidade média de dias que um pedido demora para sair do centro de distribuição após a compra e chegar até a casa do comprador. A classificação das médias é feita por mês.
 
@@ -61,7 +69,9 @@ Essa visualização é muito interessante, e mostra a quantidade média de dias 
 
 **Volume e Status de Pedidos**
 
-[PBIDesktop-FWIIzvq3v-D.png](https://postimg.cc/gX5QMMZm)
+<p align="center">
+  <img src="https://i.postimg.cc/PJrH59fp/PBIDesktop-FWIIzvq3v-D.png">
+</p>
 
 Bloco que contém as informações de quantos pedidos já foram atendidos pela Alura Log, divididos em: quantos foram entregues no prazo estipulado, quantos estão em trânsito e quantos já estão estão ou foram entregues atrasados.
 
@@ -91,7 +101,9 @@ Bloco que contém as informações de quantos pedidos já foram atendidos pela A
 
 ### Frota
 
-[PBIDesktop-IIy-MM6-LVUu.png](https://postimg.cc/wtvYBR5y)
+<p align="center">
+  <img src="https://i.postimg.cc/mr3L8Qtw/PBIDesktop-IIy-MM6-LVUu.png">
+</p>
 
 A segunda página dá um resumo acerca da frota da Alura Log, que é composta por 50 veículos de tipos diferentes. Há também alguns dados da logística geral. A tela contém uma segmentação de dados por ano, na forma de botões. 
 
@@ -99,7 +111,9 @@ Nela estão as seguintes informações:
 
 **Disponibilidade de Veículos**
 
-[PBIDesktop-s-Rnrt-Kq995.png](https://postimg.cc/GHN4Gfxz)
+<p align="center">
+  <img src="https://i.postimg.cc/FHF055dt/PBIDesktop-s-Rnrt-Kq995.png">
+</p>
 
 Mostra a proporção de veículos disponíveis e ocupados da frota.
 
@@ -129,16 +143,18 @@ Faz a separação da disponibilidade dos veículos da frota por cada tipo de ve�
     - Filtros: [Veículos] Tipo é Carro
 - *Motos*
   - Disponíveis
-    - Campos: [Medidas] Motos Disponíveis*****
+    - Campos: [Medidas] Motos Disponíveis (!)
   - Total na Frota
     - Campos: [Veículos] Tipo (Contagem)
     - Filtros: [Veículos] Tipo é Moto
 
-*****Foi necessário utilizar uma medida específica para as motos disponíveis, para que o cartão não mostre "Em Branco", uma vez que a quantidade de motos disponíveis é 0 (zero).
+(!) Foi necessário utilizar uma medida específica para as motos disponíveis, para que o cartão não mostre "Em Branco", uma vez que a quantidade de motos disponíveis é 0 (zero).
 
 **Distribuição de Status de Pedidos por Ano**
 
-[PBIDesktop-0hvq2-F5d-Sd.png](https://postimg.cc/PCwP4M6H)
+<p align="center">
+  <img src="https://i.postimg.cc/9QxZc8ZD/PBIDesktop-0hvq2-F5d-Sd.png">
+</p>
 
 Esse gráfico mostra a quantidade de pedidos por cada mês no ano e seus status de entrega.
 
@@ -149,7 +165,9 @@ Ele é um **_gráfico de colunas empilhadas_**, com os seguintes dados:
 
 **Quantidade de Pedidos por Estado**
 
-[PBIDesktop-g-L8185-Qe-LQ.png](https://postimg.cc/zV3LLNKV)
+<p align="center">
+  <img src="https://i.postimg.cc/QxJcyxMk/PBIDesktop-g-L8185-Qe-LQ.png">
+</p>
 
 Visualização que mostra o total de pedidos feitos por compradores de cada estado. É notável a discrepância entre SP e RJ (com volume de pedidos de 36 e 30 mil, respectivamente) comparados aos demais estados do Brasil, cujos volumes flutuam sempre ao redor de 3 mil.
 
@@ -160,13 +178,19 @@ Ele é um **_gráfico de colunas empilhadas_**, com os seguintes dados:
 
 ### Financeiro
 
+<p align="center">
+  <img src="https://i.postimg.cc/s2CfYnDx/PBIDesktop-q-MIfbr-MINt.png">
+</p>
+
 Página que contém algumas visualizações da parte financeira da Alura Log. É focada em faturamento sob diversos ângulos, e possui componentes de segmentação de dados por ano e mês.
 
 Nela estão as seguintes informações:
 
 **Valor do Estoque Atual e Faturamento Total**
 
-[PBIDesktop-hw-X4yx-YCF0.png](https://postimg.cc/k2W7DMMN)
+<p align="center">
+  <img src="https://i.postimg.cc/ht5vyhHY/PBIDesktop-hw-X4yx-YCF0.png">
+</p>
 
 Mostra o valor em R$ (reais) do estoque atual acumulado na última atualização, e o faturamento total da Alura Log.
 
@@ -179,7 +203,9 @@ São dois **_cartões_** com os seguintes dados:
 
 **Estados com Maior Faturamento**
 
-[PBIDesktop-D5gal-Ucwh-P.png](https://postimg.cc/HVqpp8ms)
+<p align="center">
+  <img src="https://i.postimg.cc/pLTyJK18/PBIDesktop-D5gal-Ucwh-P.png">
+</p>
 
 Mostra, de maneira sintética e visual, o faturamento da Alura Log em cada estado. Mais uma vez fica visível a discrepância de SP e RJ com os demais estados. É necessário juntar o faturamento de ao menos 6 estados para se ter uma área quase do tamanho da do RJ no gráfico, por exemplo.
 
@@ -191,7 +217,9 @@ Esse componente é um **_treemap_** com os seguintes dados:
 
 **Faturamento Total por Semestre**
 
-[PBIDesktop-Zc-USt-VOTLS.png](https://postimg.cc/6y2WJLDm)
+<p align="center">
+  <img src="https://i.postimg.cc/dtnLC5nw/PBIDesktop-Zc-USt-VOTLS.png">
+</p>
 
 Exibe o faturamento semestral da Alura Log.
 
@@ -202,7 +230,9 @@ Exibe o faturamento semestral da Alura Log.
 
 **Faturamento Total por Categoria**
 
-[PBIDesktop-42-Gg-OFOO1-G.png](https://postimg.cc/HJHdMGjq)
+<p align="center">
+  <img src="https://i.postimg.cc/xdNCWnQ1/PBIDesktop-42-Gg-OFOO1-G.png">
+</p>
 
 Exibe a classificação das categorias de produtos entregues pela Alura Log, e quais são os que geram mais receita.
 
@@ -215,9 +245,8 @@ Exibe a classificação das categorias de produtos entregues pela Alura Log, e q
 ## Medidas e Fórmulas
 ### Tabela de Medidas
 
-
-
 ```markdown
+
 | Medida            | Fórmula |
 |-------------------|---------|
 | Faturamento       | SUM(Pedidos[Quantidade]) * SUM(Produtos[Preço]) |
@@ -254,7 +283,9 @@ O tratamento de dados consistiu em:
 
 ### Diagrama Relacional
 
-[PBIDesktop-Nn9-XEEw944.png](https://postimg.cc/mz3KYh1R)
+<p align="center">
+  <img src="https://i.postimg.cc/Y9TkwWp4/PBIDesktop-Nn9-XEEw944.png">
+</p>
 
 ## Melhorias e Aprendizados
 ### O Que Aprendi
