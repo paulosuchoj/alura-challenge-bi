@@ -11,7 +11,7 @@
 
 O dashboard criado para a Alura Shop pode ser acessado na web, através do seguinte link:
 
-**[Dashboard Alura Shop - Alura Challenge BI - Semana 02](https://app.powerbi.com/view?r=eyJrIjoiNDMzNDRjYWItNzk3Yi00MjhjLWJhYWUtYWZjNDBiOGExYWM0IiwidCI6IjJjNzUwYmUyLTVkYzAtNDRjNy04MzNjLTA5NGY4ZGE5NzljMyJ9)**
+**[Dashboard Alura Shop - Alura Challenge BI - Semana 02](https://app.powerbi.com/view?r=eyJrIjoiNDMzNDRjYWItNzk3Yi00MjhjLWJhYWUtYWZjNDBiOGExYWM0IiwidCI6IjJjNzUwYmUyLTVkYzAtNDRjNy04MzNjLTA5NGY4ZGE5NzljMyJ9&pageName=ReportSection)**
 
 ## Caso
 
