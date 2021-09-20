@@ -1,0 +1,31 @@
+- As tabelas foram todas renomeadas da seguinte maneira:
+
+financeiros notas_fiscais > Notas Fiscais
+financeiro pedidos > Pedidos
+financeiro produtos > Produtos
+financeiro vendedores > Vendedores
+
+notas_fiscais
+
+- renomeação das colunas id_nota, numero_nota, id_pedido, id_vendedor, valor_venda para ID da Nota Fiscal, Numero da Nota Fiscal, ID do Pedido, ID do Vendedor, Valor da Venda
+- Transformação de todas as colunas de id para texto
+- valor_venda, frete e imposto para $
+- substituição de todos os valors 6 por 5 na coluna ID do Vendedor, uma vez que o mesmo vendedor estava duplicado na tabela de vendedores e possuia os IDs 3 e 6
+
+pedidos
+
+- Transformação de todas as colunas de id para texto
+
+produtos
+
+- renomeação da coluna id_produto para ID do Produto
+- Transformação de todas as colunas de id para texto
+- preço e custos para $
+- renomeação da coluna categoria_produto para categoria do produto
+- substituição de _ por " " na coluna categoria produto
+
+vendedores
+
+- renomeacao de id_vendedor e nome_vendedor para ID do Vendedor e Nome do Vendedor
+- Normalização dos nomes dos vendedores (cada letra em maiscula, remoção de _, remoção de duplicatas e correção de nomes)
+- Transformação de todas as colunas de id para texto
