@@ -48,7 +48,7 @@ Serve apenas como uma capa do relatório e uma mensagem de boas-vindas. Possui u
 ### Overview
 
 <p align="center">
-  <img src="https://i.postimg.cc/3Nnwb6Gb/firefox-76c-Asw-Abdg.png">
+  <img src="https://i.postimg.cc/Twj1nh3x/firefox-sa-DInzcg07.png">
 </p>
 
 
