@@ -5,7 +5,7 @@
 1. [**Semana 01 - Alura Log**](https://github.com/paulosuchoj/alura-challenge-bi/tree/main/week-01)
 2. [**Semana 02 - Alura Shop**](https://github.com/paulosuchoj/alura-challenge-bi/tree/main/week-02)
 3. [**Semana 03 - Alura Store**](https://github.com/paulosuchoj/alura-challenge-bi/tree/main/week-03)
-4. [**Semana 03 - Alura Store**]()
+4. [**Semana 04 - Curriculum**]()
 
 ## O Que É
 
