@@ -8,7 +8,7 @@
 
 ## O Que É
 
-O Alura Challenge BI é um evento de três semanas, no qual os alunos da Alura colocam seus conhecimento à prova para entregar projetos de BI, um por semana, e cada um com um tema diferente. Os projetos podem ser feitos com quaisquer ferramentas disponíveis (Google Colaboratory, Microsoft Power BI, Tableau, Databox etc.), conquanto atinjam as especificações dos "clientes".
+O Alura Challenge BI é um evento de quatro semanas, no qual os alunos da Alura colocam seus conhecimento à prova para entregar projetos de BI, um por semana, e cada um com um tema diferente. Os projetos podem ser feitos com quaisquer ferramentas disponíveis (Google Colaboratory, Microsoft Power BI, Tableau, Databox etc.), conquanto atinjam as especificações dos "clientes".
 
 <p align="center">
   <img src="https://i.postimg.cc/gJq9HVcW/Big-Data.gif">
