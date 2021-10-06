@@ -119,7 +119,7 @@ Esse item é uma **segmentação de dados** que permite filtrar toda a página d
 
 - Campo: [Vendedores] Nome do Vendedor
 
-### Simulação
+### Análise de Cenário
 
 <p align="center">
   <img src="https://i.postimg.cc/NMF9Fxyw/firefox-31-QRAi-Gv5-N.png">
