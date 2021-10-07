@@ -2,7 +2,7 @@
 
 ## Dashboard
 
-O dashboard criado para a Alura Store pode ser acessado na web, através do seguinte link:
+O dashboard criado como curriculum pode ser acessado na web, através do seguinte link:
 
 **[Dashboard Curriculum - Alura Challenge BI - Semana 04](https://app.powerbi.com/view?r=eyJrIjoiM2M4NjEwOTMtM2EyMC00ZjQ4LTk3N2ItZGI3OWZlMzkyZTNiIiwidCI6IjJjNzUwYmUyLTVkYzAtNDRjNy04MzNjLTA5NGY4ZGE5NzljMyJ9&pageName=ReportSection)**
 
