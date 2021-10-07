@@ -1,4 +1,4 @@
-# Semanas 03 e 04 - Alura Store
+# Semana 03 - Alura Store
 
 <p align="center">
   <img src="https://i.postimg.cc/gJppBcWt/alura-store-branco.png">
@@ -8,7 +8,7 @@
 
 O dashboard criado para a Alura Store pode ser acessado na web, através do seguinte link:
 
-**[Dashboard Alura Store - Alura Challenge BI - Semanas 03 e 04](https://app.powerbi.com/view?r=eyJrIjoiMWUyOTBlYmMtNmUzMS00MWNlLTkxMDItMWM5MTE3ZDUxOGYwIiwidCI6IjJjNzUwYmUyLTVkYzAtNDRjNy04MzNjLTA5NGY4ZGE5NzljMyJ9&pageName=ReportSection9820a031f7e6413752bc)**
+**[Dashboard Alura Store - Alura Challenge BI - Semana 03](https://app.powerbi.com/view?r=eyJrIjoiMWUyOTBlYmMtNmUzMS00MWNlLTkxMDItMWM5MTE3ZDUxOGYwIiwidCI6IjJjNzUwYmUyLTVkYzAtNDRjNy04MzNjLTA5NGY4ZGE5NzljMyJ9&pageName=ReportSection9820a031f7e6413752bc)**
 
 ## Caso
 
