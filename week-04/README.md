@@ -1,9 +1,5 @@
 # Semana 04 - Curriculum
 
-<p align="center">
-  <img src="https://i.postimg.cc/gJppBcWt/alura-store-branco.png">
-</p>
-
 ## Dashboard
 
 O dashboard criado para a Alura Store pode ser acessado na web, através do seguinte link:
