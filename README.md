@@ -29,7 +29,12 @@ Com a liberação do desafio de cada semana é disponibilizado um vídeo de intr
 
 Ao final de cada semana, cada aluno pode entrega, se quiser, seu projeto, fazendo a publicação deste no GitHub, LinkedIn, apresentando-o à comunidade no Discord etc. Não é obrigatório, mas é uma experiência incrível poder interagir com outros alunos e ver e se inspirar com as ideias uns dos outros.
 
+## Badges
 
+<p float="left">
+  <img src="https://i.postimg.cc/Bb1kmTn4/Badge-Alur-BI-First.png" width="300"/>
+  <img src="https://i.postimg.cc/YSTDP4G3/Badge-Alur-BI-Helper.png" width="300"/>
+</div>
 
 
 
