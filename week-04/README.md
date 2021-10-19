@@ -22,7 +22,7 @@ Esse dashboard possui apenas uma página principal, denominada Curriculum.
 ### Curriculum
 
 <p align="center">
-    <img src="https://i.postimg.cc/RFcftFY3/firefox-SIS8d49-S5e.png"/>
+    <img src="https://i.postimg.cc/YqB2JxTv/msedge-GTy-Ov-Hg1gj.png"/>
 </p>
 
 Concentra todas as informações relevantes sobre mim, meus conhecimentos, experiência e trabalhos feitos. Consiste de um cabeçalho, botões de navegação e componentes flutuantes de árvore de habilidades, linha temporal de experiências, portfólio, idiomas e cartão de contato.
@@ -38,7 +38,7 @@ Conjunto de uma **imagem** com foto de perfil, uma **caixa de texto** com mensag
 **Botões de Navegação**
 
 <p align="center">
-  <img src="https://i.postimg.cc/jdvHvDSP/firefox-G9-D0-Rmnh-KG.png">
+  <img src="https://i.postimg.cc/ryrFnHZ6/msedge-t-Gkio-Cwsa-N.png">
 </p>
 
 Conjunto de 5 **botões** para navegação entre os itens do curriculum. Cada um deles exibe seu respectivo item e esconde o que estava aberto, através do uso de Seleções e Indicadores.
