@@ -34,6 +34,7 @@ Ao final de cada semana, cada aluno pode entrega, se quiser, seu projeto, fazend
 <p float="left">
   <img src="https://i.postimg.cc/Bb1kmTn4/Badge-Alur-BI-First.png" width="300"/>
   <img src="https://i.postimg.cc/YSTDP4G3/Badge-Alur-BI-Helper.png" width="300"/>
+  <img src="https://i.postimg.cc/bNggKmdg/137537304-c2cdd677-cb6f-4974-848f-2e61b21dad02.png" width="300"/>
 </div>
 
 
